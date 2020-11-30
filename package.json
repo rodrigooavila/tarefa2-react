@@ -1,0 +1,19 @@
+{
+  "name": "tarefa2-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigooavila/tarefa2-react.git"
+  },
+  "author": "Rodrigo Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigooavila/tarefa2-react/issues"
+  },
+  "homepage": "https://github.com/rodrigooavila/tarefa2-react#readme"
+}
